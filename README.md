@@ -8,4 +8,4 @@ Anyhoo...
 
 ## Index
 
-[Unhinged Copyright-Related Rant](https://github.com/kyj0107/special-octo-eureka/blob/8ca511d46787124d6affba0118bcb599a7f02d88/Copyright.md](https://github.com/kyj0107/special-octo-eureka/blob/eab15dcc24ec259b8fa58a504f3826c3ad03768c/Copyright.md)
+[Unhinged Copyright-Related Rant](https://github.com/kyj0107/special-octo-eureka/blob/eab15dcc24ec259b8fa58a504f3826c3ad03768c/Copyright.md)
