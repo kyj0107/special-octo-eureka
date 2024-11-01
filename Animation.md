@@ -8,4 +8,4 @@ I, uh, watched all of _SAO Abridged_ (it's funny, but it has A LOT of adult humo
 
 _Wow._
 
-It's called ["Gildedguy vs. Bog"]](https://youtu.be/CQL-ixTcqWU)!
+It's called ["Gildedguy vs. Bog"](https://youtu.be/CQL-ixTcqWU)!
