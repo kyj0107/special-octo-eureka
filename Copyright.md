@@ -1,57 +1,51 @@
-# Unhinged Copyright-Related Rant?
+# Unhinged Rant About Art/Fic Thieves
 
-Copyright is a weird thing, let me tell you.
+Copyright is a silly thing, let me tell you.
 
-I'm no expert on copyright in general, but what I know is that it's _supposed_ to protect the rights of creators/owners to produce and distribute their creative works. It gets a bit messier when you consider the Internet and the DMCA, but that's the gist of it.
+I get that the point is to protect the rights of creators/owners of a creative work to produce and distribute it. I get that the DMCA is supposed to work in an age that uses the Internet way too much.
 
-Given the current landscape, with companies being overprotective of their works and AI poisoning everything it touches (sorry, Dale, but you're going to have to try harder to convince me AI is worth anything), I... surprisingly have a lot to say about it.
+However, it seems that too many people these days have forgotten what common courtesy is and have no respect for the blood, sweat, and tears put into works that are put online for everyone to see. And it makes my blood boil!
 
-## "Credit to the Artist" Doesn't Mean Anything
+## The Debacle
 
-_So_, the world of digital art is a mess. You have people who share the works of their favorite artists and credit them properly, and then you have people who post others' art on Pinterest with "credit to the artist", which doesn't even mean anything because "the artist" in question could be anybody. Basically, you're stealing if you do that, and if you can't be bothered to do your due diligence when it comes to crediting artists, what business do you even have on the Internet?
+Within the past year or so, it was brought to light that YouTubers were scraping fan fiction off sites like Archive of Our Own and FanFiction.net to put on their channels. The most they would do is put the fanfic through a text-to-speech bot, put it over some FPS gameplay, and monetize the absolute crud out of it.
 
-An artist I'm friends with has dealt with this problem a LOT. See, she's a well-known artist over on our weird corner of the Internet, but because she draws for a lot of popular fandoms, people will take her art and repost it on other websites without crediting her. It's insane. From what I can tell, she hasn't run into anything like that in a while, but there's no telling who's taking her stuff and getting away with telling everyone it's actually theirs.
+This is what you might recognize as a content farm. Low-effort garbage spewed out at robotic rates, and some of these channels have the audacity to put a Patreon or something along those lines on their channel. Some even go so far as to claim _they're_ the writers of so-and-so fanfic!
 
-Really, the lesson here is: value your own work, and don't let those losers take advantage of your hard work.
+Needless to say, the fanfic community was __livid__.
 
-OH, AND SPEAKING OF--
+Fan fiction is a weird thing in regard to copyright law. Technically, it's using the characters and setting of a copyrighted work, but at the same time, it's not something that was created by the creator of that piece of media. By all accounts, a fan fiction belongs to the fanfic author, which means if you put it on your cruddy little content farm and profit off of it, you're violating their copyright.
 
-## FPS Gameplay With AI Voiceover of Fanfic Is Lazy
+Thus, this little group of fanfic authors came together to strike down as many of these content farms as possible! They have a bot that checks for stolen content and a website and everything! They're the Copy Knights. 🙂
 
-Allow me to explain to you, "The Debacle".
+Unfortunately, some of those channels are _relentless_. No matter how many times they've been struck down, they'll come up with another content farm and continue to steal other people's works for profit. If they get hit with a copyright strike, more often than not they'll try to manipulate the person who issued the strike into removing it with some poorly-worded sob story.
 
-Within the last year or so, it was brought to light that YouTubers were stealing fanfic and making low-effort videos with AI-generated voiceovers and FPS gameplay for profit. Some were going as far as to claim that _they_ were the writers of those fics, tricking people into subscribing and giving them money for their "work".
+No offense, but I literally could not care less if you stole my work to pay for college. There's a more honest way to go about that than screwing over artists who just want to share their works.
 
-Do you have any idea how discouraging that is? Seeing your blood, sweat, and tears used by someone who's only in the creative field for profit?
+## "Credit to the Artist" Means Nothing
 
-I guess now would be a good time to introduce the Copy Knights! They're a volunteer group working to stop these YouTubers from scraping fics off the Internet for their low-effort content farms, and dozens of channels have already been documented and labeled accordingly. Some are genuine podfic channels who want to bring their favorite fanfic to more potential viewers, some are just low-effort content farms who're only in it for the money.
+I'm a digital artist. I like to make stuff and post it to social media for people who might like it.
 
-Of course, you have channels that are _still_ throwing spaghetti at the wall to try and make it stick. They're basically that one meme from SpongeBob: "How many times do we have to teach you this lesson, old man?!" It's... ridiculous. Just stop already! It's clear to everyone what you're doing, and you're insane if you think you can keep taking other people's work for profit.
+Unfortunately, much like the fanfic thieves from before, you have people who'll take art from other people and repost it on sites like Pinterest with descriptions as vague as "credit to the artist".
 
-Ugh, and don't even get me started on the sob stories they come up with when they get copyright strikes. It's always some AI-generated garbage trying to manipulate the writers into letting them continue to steal from them. They're hilarious to read, but you really have to wonder who's this desperate to make $10 off a video of someone else's work.
+Listen. "Credit to the artist" means nothing. You're not saying who the artist is, nor are you linking their social media or anything of the sort. "Credit to the artist" is a lazy way of trying to fend off the copyright hounds, not to mention it's the easiest way of raising the ire of whatever artist you're unfortunate enough to stumble upon.
 
-## The Real Reason We're Here
+## AI Stinks
 
-A couple days ago, Nintendo announced their new mobile app: Nintendo Music. You can listen to songs from all kinds of video games, put in place an anti-spoiler filter, sort by moods and character motifs--it sounds all fine and good! Well, until you get to the part where they tell you that you need a Nintendo Switch Online membership to be able to use the app at all, _and_ NSO costs _money_.
+I don't like AI.
 
-I don't doubt for a single second that _this_ is why Nintendo has been breathing down the necks of YouTube channels who post Nintendo soundtracks as of late. Sure, their video game music is free and accessible to everybody, but the problem is that _Nintendo_ isn't the one making money off their music! Hence, countless channels, from BrawlStorms (I think that's what the channel was called? It's been so long since they were terminated) to GilvaSunner (some archives of their stuff still exist, but it's only a matter of time before those are found and taken down...), have been lost to copyright strikes.
+It's a weird thing for me, personally. It's a useful tool in some areas while it's the bane of my existence in others.
 
-The thing that infuriates me the most about this is that if Nintendo is going to such great lengths to make their music as exclusive and inaccessible as possible, the least they could do is be _thorough_ in their video game soundtracks. You want the music from _The Legend of Zelda: Breath of the Wild_? Have the cutscene music, too! We'll even throw in the trailer music!
+What I'm saying is, AI has no place in art or writing in any sort of capacity, and if your argument is that it's a useful tool no matter what, tell that to all the electricity you're wasting on asking ChatGPT what countries have the letter "K" in them.
 
-And what do they have on their stupid app so far?
+So, let me tell you a particularly infuriating story involving AI.
 
-____Diddly. Squat.____
+A couple years ago, a Korean artist was streaming herself making fanart for _Genshin Impact_. Specifically, of a character with electricity-based powers. She was sketching, messing with colors, so on and so forth. Then some jerkwad got onto the stream, took her sketches, and fed them to an AI art generator to complete the work before her. He proceeded to harass her on social media, insisting that _she_ stole from _him_ and that _she_ needed to credit _him_ for the work _he_ stole from _her_. Unsurprisingly, nobody bought his bull, but even then, he insisted _he_ was the wronged artist to the very end.
 
-Heck, having a _YouTube channel_ for their music would've worked much better! But with how annoying YouTube's monetization policies are, I guess it's just easier to charge people for NSO just to use an app that barely has anything.
+It's the garbage with NFTs all over again. Why is it _our_ fault for posting our works on social media when _you_ should have the common decency to _not_ steal other people's blood, sweat, and tears? Should we stop posting our work altogether to stop people from stealing it and training AI on it?
 
-(Unrelated, but I think one of the reasons Rooster Teeth took anything to do with _RWBY_ except the trailers off YouTube was because they weren't getting as much money as they'd liked off Youtube. Oh, and to force more people to go to their broken website and pay for a subscription to watch episodes early.)
+Also, AI-generated art is garbage, anyway. It's just copy-pasting elements from different works and putting them into one work without trying to make it look decent.
 
-Ugh, and this isn't even the first time Nintendo did something this stupid.
+## Conclusion?
 
-Some years ago, they tried to implement a rule where they would get a share of YouTube Let's Players' profits because in their sick, twisted mind, they thought they were "owed" that money. Let's Plays are a weird gray area in terms of copyright law, but at the end of the day, it's not _Nintendo_ that's playing their games for an audience to watch. It's not _Nintendo_ that's offering neat little tips and tricks or insightful commentary on gameplay or whatever.
-
-Unsurprisingly, they faced _so much backlash_ that they rolled that rule back almost immediately.
-
-## I don't have a clever conclusion
-
-This probably reads more as an unhinged, unorganized rant about things that slightly pertain to copyright, but honestly, I couldn't come up with anything else where I could rant for long enough. So here, I guess?
+I have a lot of opinions about digital art and stuff.
