@@ -1,10 +1,8 @@
 # Unhinged Rant About Art/Fic Thieves
 
-Copyright is a silly thing, let me tell you.
+The Internet is a weird place.
 
-I get that the point is to protect the rights of creators/owners of a creative work to produce and distribute it. I get that the DMCA is supposed to work in an age that uses the Internet way too much.
-
-However, it seems that too many people these days have forgotten what common courtesy is and have no respect for the blood, sweat, and tears put into works that are put online for everyone to see. And it makes my blood boil!
+Sometimes it's fun. Sometimes it's weird. Sometimes it's full of people with not a single ounce of respect for artists/writers.
 
 ## The Debacle
 
@@ -48,4 +46,4 @@ Also, AI-generated art is garbage, anyway. It's just copy-pasting elements from 
 
 ## Conclusion?
 
-I have a lot of opinions about digital art and stuff.
+I have a lot of opinions about digital art and stuff, I guess.
