@@ -47,3 +47,7 @@ Also, AI-generated art is garbage, anyway. It's just copy-pasting elements from 
 ## Conclusion?
 
 I have a lot of opinions about digital art and stuff, I guess.
+
+---
+
+[Back to Main Page!](https://github.com/kyj0107/special-octo-eureka/blob/a0cbf5adecd7205a640e0ecc6880ca6a3d33d316/README.md)
