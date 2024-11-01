@@ -36,3 +36,6 @@ Hence, I've just been messing with ibisPaint. They introduced an animation featu
 
 Unfortunately, I can see why they phased out 2D animation. It's _hard_. So far, I've tried drawing things frame by frame, but it might've been helpful to have a storyboard or something drawn somewhere else. Granted, I'm no professional animator, but I'm not a professional artist either, and that hasn't exactly stopped me, has it?
 
+---
+
+[Back to Main Page?](https://github.com/kyj0107/special-octo-eureka/blob/a0cbf5adecd7205a640e0ecc6880ca6a3d33d316/README.md)
