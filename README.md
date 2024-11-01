@@ -8,5 +8,5 @@ Anyhoo...
 
 ## Index
 
-[Unhinged Art-Related Rant](https://github.com/kyj0107/special-octo-eureka/blob/ce95ff87fc38c1dcaebb6b33753510c4c9e487ac/ArtStuff.md)
-
+- [Unhinged Art-Related Rant](https://github.com/kyj0107/special-octo-eureka/blob/ce95ff87fc38c1dcaebb6b33753510c4c9e487ac/ArtStuff.md)
+- [Something About Animation](https://github.com/kyj0107/special-octo-eureka/blob/1eccb4413451255e5dc5074b9485a0056c4ca36b/Animation.md)
